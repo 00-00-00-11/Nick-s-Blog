@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://nickherokublog.herokuapp.com",
+    "contentApiKey": "db4ba102491bbe89aeef8320db"
+  },
+  "production": {
+    "apiUrl": "https://nickherokublog.herokuapp.com",
+    "contentApiKey": "db4ba102491bbe89aeef8320db"
+  }
+}
